@@ -1,0 +1,1 @@
+Go [here](https://gitpitch.com/ashleycsun/gitpitch-lc-deck) to view slideshow. To view branch go to https://gitpitch.com/ashleycsun/gitpitch-lc-deck/BRANCH_NAME
